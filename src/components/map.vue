@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>{{ msg }}</h1>
+    <div id="map" style="width:500px;height:400px;"></div>
   </div>
 </template>
 
